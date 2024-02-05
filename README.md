@@ -22,6 +22,7 @@ it enhances correctness and reduces man power.
 |5|  NUON SAMBO |
 |6|  Mao Chivorn |
 |7|  Chem Bouna |
+|7|  Nam Sovvan |
 
 ## Features
 
