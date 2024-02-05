@@ -1,3 +1,4 @@
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1200px-Microsoft_.NET_logo.svg.png" width="400" alt="Laravel Logo"></a></p>
 
 
@@ -11,6 +12,16 @@ it enhances correctness and reduces man power.
 ## Team Members
 
 - [@Engin-Smith](https://github.com/Engin-Smith)
+
+| #              | Member                                                               |
+| ----------------- | ------------------------------------------------------------------ |
+|1|  Mao Somith |
+|2|  Leang Panha |
+|3|  Korn Souty |
+|4|  Chon Bunham |
+|5|  NUON SAMBO |
+|6|  Mao Chivorn |
+|7|  Chem Bouna |
 
 ## Features
 
@@ -34,6 +45,25 @@ Or just to Download file ZIP
 
 ```bash
   Download ZIP
+```
+Set Up Database 
+
+```bash
+  Install SqlServer
+```
+Backup Database By using data source file in directory Database Backup
+
+```bash
+  db_sneaker.bacpac
+```
+go to directory Modul for configuration the connection string to database Example Server name
+
+```bash
+  DESKTOP-UOR27U4
+```
+if sucessful connection you can run and login test with demo account
+```bash
+  username = 123 password = 123
 ```
 ## Tech Stack
 
