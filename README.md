@@ -1,7 +1,5 @@
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1200px-Microsoft_.NET_logo.svg.png" width="400" alt="Laravel Logo"></a></p>
-
-
 <h1 align="center">Sneaker Store System</h1>
 <p align="center">
 This project is targeted for the mass Sneaker Store management system around the company or further.
@@ -10,9 +8,7 @@ it enhances correctness and reduces man power.
 </p>
 
 ## Team Members
-
 - [@Engin-Smith](https://github.com/Engin-Smith)
-
 | #              | Member                                                               |
 | ----------------- | ------------------------------------------------------------------ |
 |1|  Mao Somith |
@@ -80,10 +76,7 @@ To run tests, run the following to open visual studio
 ```bash
     sneaker_store.sln
 ```
-
-
 ## Plugin
-
  - [Crystal Report for visual studio](https://www.sap.com/products/technology-platform/crystal-reports.html#try-now)
  - [SQL Server ](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
