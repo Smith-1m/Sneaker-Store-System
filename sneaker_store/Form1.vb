@@ -4,7 +4,6 @@ Public Class Form1
     'Dim con As SqlConnection
     'Dim cmd As SqlCommand
     'Dim rdr As SqlDataAdapter
-
     Private Sub btn_log_Click(sender As Object, e As EventArgs)
 
         If (txt_user.Text = "") Then
@@ -29,7 +28,6 @@ Public Class Form1
         '    End If
 
         'Catch ex As Exception
-
         'End Try
         'Dim username As String = txt_user.Text
         'Dim password As String = txt_pass.Text
@@ -68,12 +66,9 @@ Public Class Form1
             MessageBox.Show("Inccorrect username or password", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning)
         End If
     End Sub
-
     Private Sub btn_close_Click(sender As Object, e As EventArgs) Handles btn_close.Click
         Me.Close()
-
     End Sub
-
     Private Sub btn_log_Click_1(sender As Object, e As EventArgs) Handles btn_log.Click
         If (txt_user.Text = "") Then
             MsgBox("Enter The Username")
