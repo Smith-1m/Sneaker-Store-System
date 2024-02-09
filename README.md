@@ -7,20 +7,6 @@ Sneaker Store management is a very complex process which also need a very effici
 it enhances correctness and reduces man power.
 </p>
 
-## Team Members
-- [@Engin-Smith](https://github.com/Engin-Smith)
-
-| #              | Member                                                               |
-| ----------------- | ------------------------------------------------------------------ |
-|1|  Mao Somith |
-|2|  Leang Panha |
-|3|  Korn Souty |
-|4|  Chon Bunham |
-|5|  NUON SAMBO |
-|6|  Mao Chivorn |
-|7|  Chem Bouna |
-|8|  Nam Sovvan |
-
 ## Features
 
 - Modern GUI
